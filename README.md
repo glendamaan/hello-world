@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Glendamaan here, I like Node.js
+This is a repositry of glendamaan
